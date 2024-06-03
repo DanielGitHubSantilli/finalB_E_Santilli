@@ -25,18 +25,6 @@ Este proyecto consta de una aplicación web desarrollada con Node.js, Express.js
 - Vaciar el carrito
 - Finalizar compra
 
-## Capturas de Pantalla
-
-![image](https://github.com/smatulionis/Proyecto-Final-E-commerce-Coderhouse/assets/86858500/ead9a26b-677f-4fc7-ac31-f8d63243795a)
-
-![image](https://github.com/smatulionis/Proyecto-Final-E-commerce-Coderhouse/assets/86858500/69e9efba-0cb2-40be-8128-da65bc5865b0)
-
-![image](https://github.com/smatulionis/Proyecto-Final-E-commerce-Coderhouse/assets/86858500/1266c719-86e7-4432-9ceb-d327c3f922d6)
-
-![image](https://github.com/smatulionis/Proyecto-Final-E-commerce-Coderhouse/assets/86858500/5e102620-53b7-43b7-833a-165f477c624b)
-
-![image](https://github.com/smatulionis/Proyecto-Final-E-commerce-Coderhouse/assets/86858500/4812383c-e52d-46a1-897e-4aa3d0cbe121)
-
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
@@ -54,4 +42,8 @@ Este proyecto consta de una aplicación web desarrollada con Node.js, Express.js
 
 ## Contacto
 
+<<<<<<< HEAD
 Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, puedes contactarme por correo electrónico a [danielsantilli1@hotmail.com](mailto:danielsantilli1@hotmail.com) o a través de mi perfil de Linkedin en [Daniel Santilli](https://www.linkedin.com/in/danielsantilli/).
+=======
+Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, puedes contactarme por correo electrónico a [danielsantilli1@hotmail.com] o a través de mi perfil de Linkedin en [Daniel Santilli](https://www.linkedin.com/in/danielsantilli/).
+>>>>>>> ec10c553f5bfb3b7b7b63fdc09385196e9bff828
