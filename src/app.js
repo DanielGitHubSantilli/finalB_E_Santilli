@@ -16,7 +16,7 @@ import swaggerUiExpress from 'swagger-ui-express';
 
 const app = express();
 const PORT = 8080;
-//si pongo el process.env.DB_URL me da error
+//si pongo el process.env.DB_URL me da error de conexión...
 const DB_URL = "mongodb+srv://danielsantilli:123Dan1@cluster0.1yntrok.mongodb.net/";
 
 
