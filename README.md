@@ -41,5 +41,3 @@ Este proyecto consta de una aplicación web desarrollada con Node.js, Express.js
 3. Ve a la página de carrito para ver los productos agregados, eliminar productos o finalizar la compra.
 
 ## Contacto
-
-Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, puedes contactarme por correo electrónico a [danielsantilli1@hotmail.com] o a través de mi perfil de Linkedin en [Daniel Santilli](https://www.linkedin.com/in/danielsantilli/).
