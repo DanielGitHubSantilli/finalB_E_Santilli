@@ -42,8 +42,4 @@ Este proyecto consta de una aplicación web desarrollada con Node.js, Express.js
 
 ## Contacto
 
-<<<<<<< HEAD
-Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, puedes contactarme por correo electrónico a [danielsantilli1@hotmail.com](mailto:danielsantilli1@hotmail.com) o a través de mi perfil de Linkedin en [Daniel Santilli](https://www.linkedin.com/in/danielsantilli/).
-=======
 Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, puedes contactarme por correo electrónico a [danielsantilli1@hotmail.com] o a través de mi perfil de Linkedin en [Daniel Santilli](https://www.linkedin.com/in/danielsantilli/).
->>>>>>> ec10c553f5bfb3b7b7b63fdc09385196e9bff828
